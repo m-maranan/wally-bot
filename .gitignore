@@ -1,0 +1,20 @@
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Node.js essential ignores
+node_modules/
+npm-debug.log*
+/build
+/dist
+.next/
+.cache/
